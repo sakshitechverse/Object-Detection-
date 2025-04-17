@@ -1,0 +1,4 @@
+streamlit
+transformers
+torch
+Pillow
